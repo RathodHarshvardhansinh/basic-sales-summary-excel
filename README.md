@@ -43,7 +43,6 @@ The dataset in this repo is a **sample retail dataset** created for practice (su
 ```
 ├── Basic_Sales_Summary.xlsx
 ├── README.md
-└── (optional) screenshots/
 ```
 
 ## Author
